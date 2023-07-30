@@ -14,3 +14,4 @@ run some jest tests if you so dare :p
 
 I made this repo for this youtube video 
 
+https://youtu.be/zob7xplHhA8
