@@ -11,3 +11,7 @@ yarn start
 open up your localhost:8080
 
 run some jest tests if you so dare :p
+<<<<<<< HEAD
+=======
+
+>>>>>>> bd5f64e (improving the readme)
