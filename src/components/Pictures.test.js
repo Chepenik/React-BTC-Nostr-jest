@@ -84,8 +84,8 @@ describe("Pictures", () => {
       </BrowserRouter>
     );
     
-    expect(wrapper.find("img").prop("src")).toBe("http://fakeurl.com/image");
-    expect(wrapper.find("h1").text()).toBe("Some text");
+    expect(wrapper.find("img").prop("src")).toBe("HARDCODING IS A BAD PRACTICE");
+    expect(wrapper.find("h1").text()).toBe("If you hardcode kids, you're going have a bad time.");
     expect(wrapper.find("Link[to='/facts']").prop("to")).toBe("/facts");
     expect(wrapper.find("Link[to='/factz']").prop("to")).toBe("/factz");
 
